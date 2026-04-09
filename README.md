@@ -34,3 +34,4 @@ Cypress | Maestro | Pytest | Selenium | K6 | Jmeter | Postman | Sonarqube | Data
 
 *   **Email:** david.13rodrigues@hotmail.com
 *   **GitHub:** https://github.com/DavidRodriguesMelo10
+*   **Linkedin:** https://www.linkedin.com/in/david-rodrigues-melo-dev/
